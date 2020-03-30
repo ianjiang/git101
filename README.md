@@ -1,2 +1,2 @@
 # git101
-learn
+learn git 101
